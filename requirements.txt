@@ -1,0 +1,4 @@
+pyarrow==11.0.0
+pyspark==3.3.2
+vaex==4.16.0
+pandas==1.5.3
