@@ -84,7 +84,3 @@
           # 第三種：定義屬性的方法：
           test_class.my_name = "chihwei"
       ```
-
-
-
-
